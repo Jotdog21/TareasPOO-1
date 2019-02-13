@@ -1,3 +1,3 @@
 # TareasPOO
 
-Repositorio para mis tareas de Programcion asdhasldasjdj
+Repositorio para mis tareas de Programcion OO
