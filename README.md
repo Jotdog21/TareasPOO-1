@@ -1,3 +1,3 @@
 # Tareas POO
 
-Repositorio para mis tareas de Programcion OO
+Repositorio para mis tareas de Programacion OO
